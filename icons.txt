@@ -1,0 +1,56 @@
+Subscription:-    
+<img width="50" height="50" src="https://img.icons8.com/ios/50/video-playlist.png" alt="video-playlist"/>  
+
+Shorts
+<img width="48" height="48" src="https://img.icons8.com/material-outlined/48/youtube-shorts.png" alt="youtube-shorts"/>
+
+home
+<img width="48" height="48" src="https://img.icons8.com/fluency-systems-filled/48/home.png" alt="home"/>
+
+history
+<img width="48" height="48" src="https://img.icons8.com/material-outlined/48/time-machine.png" alt="time-machine"/>
+
+Watch Later
+<img width="48" height="48" src="https://img.icons8.com/material-outlined/48/clock--v1.png" alt="clock--v1"/>
+
+like
+<img width="32" height="32" src="https://img.icons8.com/windows/32/facebook-like.png" alt="facebook-like"/>
+
+all subscriptions
+<img width="48" height="48" src="https://img.icons8.com/material-rounded/48/list.png" alt="list"/>
+
+
+Playlists
+<i class="fa-solid fa-list-check"></i>
+
+youtube header
+<i class="fa-solid fa-bars"></i>
+
+
+bell
+<i class="fa-regular fa-bell"></i>
+
+create
+<img width="50" height="50" src="https://img.icons8.com/ios/50/plus.png" alt="plus"/>
+
+
+Email
+<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/circled-k.png" alt="circled-k"/>
+
+
+search
+<img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/search--v1.png" alt="search--v1"/>
+
+
+mike
+<img width="24" height="24" src="https://img.icons8.com/material-sharp/24/microphone--v1.png" alt="microphone--v1"/>
+
+
+
+
+
+trending
+<img width="24" height="24" src="https://img.icons8.com/android/24/FFFFFF/fire-element.png" alt="fire-element"/>
+
+shopping
+<img width="64" height="64" src="https://img.icons8.com/external-yogi-aprelliyanto-detailed-outline-yogi-aprelliyanto/64/FFFFFF/external-shopping-bag-ecommerce-marketing-yogi-aprelliyanto-detailed-outline-yogi-aprelliyanto.png" alt="external-shopping-bag-ecommerce-marketing-yogi-aprelliyanto-detailed-outline-yogi-aprelliyanto"/>

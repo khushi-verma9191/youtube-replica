@@ -1,0 +1,76 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background: #0f0f0f;
+}
+.left-content
+{
+    height: 100vh;
+    overflow-y: hidden;
+}
+.left-content:hover
+{
+    overflow-y: scroll;
+}
+.left-content::-webkit-scrollbar 
+{
+    width: 6px; /* Width of the scrollbar */
+    background-color: #2c2c2c; /* Background of the scrollbar track */
+}
+.left-content::-webkit-scrollbar-thumb {
+    background-color: #888; /* Color of the scrollbar thumb */
+    border-radius: 10px; /* Rounded corners for the scrollbar thumb */
+    border: 1px solid #2c2c2c; /* Space around the scrollbar thumb */
+}
+.option:hover
+{
+    background-color: #272727;
+}
+.mybtn
+{
+    background-color: #272727;
+    color: white;
+    font-weight: 600;
+}
+.mybtn:hover
+{
+    background-color: #888;
+}
+.right
+{
+    overflow-y:scroll;
+    height: 100vh;
+}
+/* .right:hover
+{
+    overflow-y: scroll;
+} */
+.right::-webkit-scrollbar
+{
+    width: 6px;
+}
+.right::-webkit-scrollbar-thumb
+{
+    background-color: #888;
+    border-radius: 10px;
+    
+}
+.transparent
+{
+    background-color: transparent;
+    border: 0;
+}
+.showbtn 
+{
+    background-color: #0f0f0f;
+    margin-top: -25px;
+    border-radius: 20px;
+}
+.showbtn:hover
+{
+    background-color: #888;
+}
